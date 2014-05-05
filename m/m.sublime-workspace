@@ -1,0 +1,582 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"a"
+			],
+			[
+				"wp-is-gd",
+				"wp-is-gd-url"
+			],
+			[
+				"generate",
+				"generate_post_short_url"
+			],
+			[
+				"dislay",
+				"display_short_url_meta_box"
+			],
+			[
+				"wp",
+				"wp_jpanelmenu_title"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 7924,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 151,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 632,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/ejgh.css",
+			"settings":
+			{
+				"buffer_size": 3629,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/index.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/reset.css",
+			"settings":
+			{
+				"buffer_size": 444,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/eliheiss/Desktop/robots.txt",
+		"/Users/eliheiss/Desktop/dev.eli.io/oldschoolnewschoolmom.com/wp-content/themes/coraline-child/footer.php",
+		"/Users/eliheiss/Desktop/dev.eli.io/oldschoolnewschoolmom.com/wp-content/themes/coraline-child/header.php",
+		"/Users/eliheiss/Desktop/dev.eli.io/oldschoolnewschoolmom.com/wp-content/themes/coraline-child/style.css",
+		"/Users/eliheiss/Desktop/lrv/lrvs/index.php",
+		"/Users/eliheiss/Desktop/podcast.rss",
+		"/Users/eliheiss/Desktop/cyclone-rvs.html",
+		"/Users/eliheiss/Desktop/jquery/index.html",
+		"/Users/eliheiss/Desktop/carly.txt",
+		"/Users/eliheiss/Desktop/index.html",
+		"/Users/eliheiss/Desktop/weightlessrecordings.wordpress.2013-12-30.xml",
+		"/private/var/folders/tj/8n4gny5n0sv9jxnkcwzllkr80000gn/T/fz3temp-1/php.ini",
+		"/Users/eliheiss/Desktop/adwords-prep.txt",
+		"/Users/eliheiss/Desktop/oddcaste/podcast.rss",
+		"/Users/eliheiss/Desktop/dja/dja-text.txt",
+		"/Users/eliheiss/Desktop/dja-text.txt",
+		"/Users/eliheiss/Desktop/dev.eli.io/robots.txt",
+		"/Users/eliheiss/Desktop/dev.eli.io/wp-hot-dogs/css/genericons.css",
+		"/Users/eliheiss/Desktop/media-path-controller/media-path-controller.php",
+		"/Users/eliheiss/Desktop/toggle/css/toggle.css",
+		"/Users/eliheiss/Desktop/toggle/css/style.css",
+		"/Users/eliheiss/Desktop/toggle/css/reset.css",
+		"/Users/eliheiss/Desktop/toggle/js/toggle.js",
+		"/Users/eliheiss/Desktop/toggle/index.html",
+		"/Users/eliheiss/Desktop/jquery-menu-toggle/index.html",
+		"/Users/eliheiss/Desktop/revo1.txt",
+		"/Users/eliheiss/Desktop/1mc.txt",
+		"/Users/eliheiss/Desktop/js-test/index.html",
+		"/Users/eliheiss/Desktop/media-path-controller/ejgh+simulacra2.jpg",
+		"/Users/eliheiss/Desktop/media-path-controller/ejgh+gingerale2.txt",
+		"/Users/eliheiss/Desktop/ejgh+soulfree2.txt",
+		"/Users/eliheiss/Desktop/ejgh+thursdaysrevolutionarychild2.txt",
+		"/Users/eliheiss/Desktop/ejgh+wildvine2.txt",
+		"/Users/eliheiss/Desktop/ejgh+worldunknown2.txt",
+		"/Users/eliheiss/Desktop/ejgh+backwardsprogress2.txt",
+		"/Users/eliheiss/Desktop/ejgh+foreverandalways2.txt",
+		"/Users/eliheiss/Desktop/ejgh+moderatedreaming2.txt",
+		"/Users/eliheiss/Desktop/ejgh+confusion2.txt",
+		"/Users/eliheiss/Desktop/ejgh+spokenheart2.txt",
+		"/Users/eliheiss/Desktop/ejgh+withoutyou2.txt",
+		"/Users/eliheiss/Desktop/ejgh+multidimensional2.txt",
+		"/Users/eliheiss/Desktop/ejgh+chocolatesunday2.txt",
+		"/Users/eliheiss/Desktop/ejgh+blackocean2.txt",
+		"/Users/eliheiss/Desktop/ejgh+actionfigures2.txt",
+		"/Users/eliheiss/Desktop/ejgh+bluebird2.txt",
+		"/Users/eliheiss/Desktop/ejgh+littlestars2.txt",
+		"/Users/eliheiss/Desktop/ejgh+ablackpanthersong2.txt",
+		"/Users/eliheiss/Desktop/ejgh+unrecyclable2.txt",
+		"/Users/eliheiss/Desktop/ejgh+callwaiting2.txt",
+		"/Users/eliheiss/Desktop/ejgh+emptybottle2.txt",
+		"/Users/eliheiss/Desktop/ejgh+thewindingroad2.txt",
+		"/Users/eliheiss/Desktop/ejgh+brooklynjapan2.txt",
+		"/Users/eliheiss/Desktop/ejgh+beyondtheobvious2.txt",
+		"/Users/eliheiss/Desktop/ejgh+thegrandcanyon2.txt",
+		"/Users/eliheiss/Desktop/ejgh+madeofglass2.txt",
+		"/Users/eliheiss/Desktop/ejgh+whereistand2.txt",
+		"/Users/eliheiss/Desktop/ejgh+pollintodust2.txt",
+		"/Users/eliheiss/Desktop/ejgh+therivieradream2.txt",
+		"/Users/eliheiss/Desktop/ejgh+quattro2.txt",
+		"/Users/eliheiss/Desktop/dev.eli.io/.htaccess",
+		"/Users/eliheiss/Desktop/podcast.xml",
+		"/Users/eliheiss/Desktop/rv/lakeshorervcenter.com/css/respond.css",
+		"/Users/eliheiss/Desktop/rv/lakeshorervcenter.com/css/style.css",
+		"/Users/eliheiss/Desktop/rv/montana-3750fl.com/css/respond.css",
+		"/Users/eliheiss/Desktop/rv/montana-3750fl.com/css/style.css",
+		"/Users/eliheiss/Desktop/rv/montana-3750fl.com/index.html",
+		"/Users/eliheiss/Desktop/rv/montana-3400rl.com/index.html",
+		"/Users/eliheiss/Desktop/rv/montana-3400rl.com/css/style.css",
+		"/Users/eliheiss/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/eliheiss/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/eliheiss/Desktop/montana-3400rl.com/index.html",
+		"/Users/eliheiss/Desktop/pof-notes.txt",
+		"/Users/eliheiss/Desktop/montana3400rl/css/style.css",
+		"/Users/eliheiss/Desktop/montana3400rl/index.html",
+		"/Users/eliheiss/Desktop/montana3400rl/style.css",
+		"/Users/eliheiss/Desktop/montana3400rl/js/script.js",
+		"/Users/eliheiss/Desktop/notes/Small Talk For Big Thoughts.txt",
+		"/Users/eliheiss/Desktop/notes/Mobile Web App WP Plugin.txt",
+		"/Users/eliheiss/Desktop/notes/WP URL Rewrite.txt",
+		"/Users/eliheiss/Desktop/www/wp-content/plugins/wp-is-gd/wp-is-gd.php",
+		"/Users/eliheiss/Desktop/www/wp-content/plugins/wp-is-gd/class-wp-is-gd.php",
+		"/Users/eliheiss/Desktop/pillars to a successful movement.txt",
+		"/Users/eliheiss/Desktop/my name is elijah heiss.txt",
+		"/Users/eliheiss/Desktop/Social Currency.txt",
+		"/Users/eliheiss/Desktop/500px or less.txt",
+		"/private/var/folders/tj/8n4gny5n0sv9jxnkcwzllkr80000gn/T/fz3temp-1/header.php",
+		"/private/var/folders/tj/8n4gny5n0sv9jxnkcwzllkr80000gn/T/fz3temp-1/functions.php",
+		"/private/var/folders/tj/8n4gny5n0sv9jxnkcwzllkr80000gn/T/fz3temp-2/functions.php",
+		"/private/var/folders/tj/8n4gny5n0sv9jxnkcwzllkr80000gn/T/fz3temp-2/header 2.php",
+		"/private/var/folders/tj/8n4gny5n0sv9jxnkcwzllkr80000gn/T/fz3temp-2/style.css",
+		"/Users/eliheiss/Desktop/wp_jpanelmenu/jpanelmenu.php",
+		"/private/var/folders/tj/8n4gny5n0sv9jxnkcwzllkr80000gn/T/fz3temp-2/header.php",
+		"/Users/eliheiss/Desktop/child/eli-io/functions.php",
+		"/Users/eliheiss/Desktop/child/eli-io/header.php",
+		"/Users/eliheiss/Desktop/child/eli-io/footer.php",
+		"/Users/eliheiss/Desktop/child/eli-io/style.css",
+		"/Users/eliheiss/Desktop/child/eli-io/jpanelmenu/css/jpanelmenu.style.css",
+		"/private/var/folders/tj/8n4gny5n0sv9jxnkcwzllkr80000gn/T/fz3temp-1/index.html",
+		"/Users/eliheiss/Desktop/child/eli-io/jpanelmenu/js/jpanelmenu.script.min.js",
+		"/private/var/folders/tj/8n4gny5n0sv9jxnkcwzllkr80000gn/T/fz3temp-1/style.css",
+		"/Users/eliheiss/Desktop/child/eli-io/jpanelmenu.style.css",
+		"/Users/eliheiss/Desktop/jpanel.html",
+		"/Users/eliheiss/Desktop/jPanelMenu-master/docs/index.html",
+		"/Users/eliheiss/Desktop/creative smart online marketing.txt",
+		"/Users/eliheiss/Desktop/Deliberate Practice.txt",
+		"/Users/eliheiss/Desktop/eli-io/m/index.html",
+		"/Users/eliheiss/Desktop/product vision.txt",
+		"/Users/eliheiss/Desktop/shirt.txt",
+		"/Users/eliheiss/Desktop/eli-io/app/channel.html",
+		"/Users/eliheiss/Desktop/eli-io/app/index.php",
+		"/private/var/folders/tj/8n4gny5n0sv9jxnkcwzllkr80000gn/T/fz3temp-1/index.php",
+		"/private/var/folders/tj/8n4gny5n0sv9jxnkcwzllkr80000gn/T/fz3temp-1/.htaccess",
+		"/Users/eliheiss/Desktop/wordpress-text.txt",
+		"/Users/eliheiss/Documents/eliheiss.com/rd/index.html",
+		"/private/var/folders/tj/8n4gny5n0sv9jxnkcwzllkr80000gn/T/fz3temp-1/.htaccess 3",
+		"/Users/eliheiss/Desktop/htaccess.txt",
+		"/Users/eliheiss/Desktop/stuff.txt",
+		"/Users/eliheiss/Desktop/themeforest-2374769-mason-a-masonry-inspired-tumblr-theme/theme/mikedidthis-mason-1.5.html",
+		"/Users/eliheiss/Desktop/proxy.php",
+		"/Users/eliheiss/Desktop/hellyesginger.tumblr-default-theme.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"250",
+			"left",
+			"walkingheader",
+			"left: -250px",
+			"globalNav",
+			"hamburger",
+			"logan's rv",
+			"03/oc018",
+			"hence",
+			"hence.me/",
+			"hence",
+			"Hence.me",
+			"color: rgb(204, 255, 255);",
+			"dev.eli.io/",
+			"http://www.old",
+			"http://hence.me/terms/",
+			"vox",
+			"verge",
+			"vox",
+			".single",
+			"-reviews",
+			"pushaw-eliio-call-mobile",
+			".post h1.title",
+			"single #content",
+			"navigation ul",
+			"’",
+			"loopedslid",
+			".entry p",
+			".blog #content .post h2.title a",
+			".blog #content .post h2.title a, .archive #content .post h2.title a",
+			".pushaw-eliio-free-estimate .pushaw-eliio-tagline span",
+			"two-col-left",
+			".single .post h1.title",
+			".page h1.title",
+			"footer-nav",
+			"bold",
+			".entry p",
+			"form",
+			"\">",
+			"</option><option value=\"",
+			"\">",
+			"</option><option value=\"",
+			"$",
+			" ",
+			"  ",
+			"$",
+			"</p>",
+			"p style=\"text-align: left;\"",
+			"oc005",
+			"mainContainer",
+			"003",
+			"dbbf59",
+			"b93207",
+			"e05b21",
+			"00b7ea",
+			"009ec3",
+			".podcast ",
+			".button",
+			"sun ra",
+			"monae",
+			"\"../",
+			"z-index",
+			".lakeshorerv",
+			"\\\"",
+			"main",
+			"header.main nav",
+			"nav ",
+			"nav",
+			"200",
+			"'",
+			"rss",
+			"\"/",
+			"\"/\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"eli.io",
+			"04/oc019",
+			"logansrv.com/",
+			"Logan's RV",
+			"",
+			"http://old",
+			"",
+			"'",
+			"\n",
+			"",
+			"</td>",
+			"td",
+			"oc006",
+			"top",
+			"004",
+			"f7941e",
+			"dbbf59",
+			"ecc24c",
+			"e05b21",
+			"b93207",
+			"",
+			".podcast .button",
+			"\"http://oddcaste.com/",
+			"#lakeshorerv",
+			"'",
+			"header.main nav div.menu-main-menu-container",
+			".menu-main-menu-container",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 7924,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "script.js",
+					"settings":
+					{
+						"buffer_size": 632,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/ejgh.css",
+					"settings":
+					{
+						"buffer_size": 3629,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/index.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "css/reset.css",
+					"settings":
+					{
+						"buffer_size": 444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

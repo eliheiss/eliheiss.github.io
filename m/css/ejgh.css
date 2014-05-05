@@ -194,7 +194,7 @@
 	display: none;
 	margin-left: -256px;
 	opacity: 0;
-	overflow: hideen;
+	overflow: hidden;
 	overflow-y: scroll;
 	position: fixed;
 	top: 0;

@@ -14,6 +14,14 @@ $(function() {
 						$(window).height()
 					);
 				}
+
+  $(document).not( $('#vp') ).bind({
+				'click.fb': function(){
+						$('#vp').removeClass('_ss');
+						$(document).unbind('click.fb');
+				}
+ 	 });
+
 	});
   $('._ss #ew').click(function() {
       $('#vp').removeClass('_ss');
